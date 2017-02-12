@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/dhinesh/StudioProjects/Bus/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher_1.png",
+        "source": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/drawable-xxhdpi/ic_launcher_1.png"
+    },
+    {
+        "merged": "/home/dhinesh/StudioProjects/Bus/app/build/intermediates/res/merged/debug/drawable-xxhdpi/map.png",
+        "source": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/drawable-xxhdpi/map.png"
+    }
+]

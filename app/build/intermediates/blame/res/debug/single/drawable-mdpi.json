@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/dhinesh/StudioProjects/Bus/app/build/intermediates/res/merged/debug/drawable-mdpi/src.png",
+        "source": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/drawable-mdpi/src.png"
+    },
+    {
+        "merged": "/home/dhinesh/StudioProjects/Bus/app/build/intermediates/res/merged/debug/drawable-mdpi/map1.png",
+        "source": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/drawable-mdpi/map1.png"
+    },
+    {
+        "merged": "/home/dhinesh/StudioProjects/Bus/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher_1.png",
+        "source": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/drawable-mdpi/ic_launcher_1.png"
+    },
+    {
+        "merged": "/home/dhinesh/StudioProjects/Bus/app/build/intermediates/res/merged/debug/drawable-mdpi/map.png",
+        "source": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/drawable-mdpi/map.png"
+    },
+    {
+        "merged": "/home/dhinesh/StudioProjects/Bus/app/build/intermediates/res/merged/debug/drawable-mdpi/des.png",
+        "source": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/drawable-mdpi/des.png"
+    }
+]

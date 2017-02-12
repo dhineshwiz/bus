@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/dhinesh/StudioProjects/Bus/app/build/intermediates/res/merged/debug/menu/gr.xml",
+        "source": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/menu/gr.xml"
+    },
+    {
+        "merged": "/home/dhinesh/StudioProjects/Bus/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/dhinesh/StudioProjects/Bus/app/build/intermediates/res/merged/debug/menu/map.xml",
+        "source": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/menu/map.xml"
+    },
+    {
+        "merged": "/home/dhinesh/StudioProjects/Bus/app/build/intermediates/res/merged/debug/menu/next.xml",
+        "source": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/menu/next.xml"
+    }
+]

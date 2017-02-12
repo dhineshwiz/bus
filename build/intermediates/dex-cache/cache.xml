@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/dhinesh/StudioProjects/Bus/app/libs/google-play-services_lib.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="81741ed6ff71ed168ea0e4040dd94b7e07ba307c">
+        <dex dex="/home/dhinesh/StudioProjects/Bus/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-play-services_lib_13631126c56c7b53875c2347427718d7d0b73946/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dhinesh/StudioProjects/Bus/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c00ef5a38aa43e1eab316e7a95866bf559079e7c">
+        <dex dex="/home/dhinesh/StudioProjects/Bus/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7d3477accd4ee1fc48aadee5e57f745ca18e307c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dhinesh/StudioProjects/Bus/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/19.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af4cc326e6cd92f88db12298767e521743aedd36">
+        <dex dex="/home/dhinesh/StudioProjects/Bus/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-19.1.0_ca12a8d6757885d68a33c554d901859fb0b3c1bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dhinesh/StudioProjects/Bus/app/libs/google-play-services.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="826507592fec9d8e26db18364e709df133c749ce">
+        <dex dex="/home/dhinesh/StudioProjects/Bus/app/build/intermediates/transforms/dex/debug/folders/1000/2/google-play-services_cf505eaffc25dbaecb67e3a7b104ff773a6623e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dhinesh/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/dhinesh/StudioProjects/Bus/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_4207707693737dc139301759fef3b86f0fec58ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dhinesh/StudioProjects/Bus/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed5f01219b0971f6d142baa384402167d5b6b35e">
+        <dex dex="/home/dhinesh/StudioProjects/Bus/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0a80742ee0055b90062d3bbc9ce7268296ea9997/classes.dex" />
+    </item>
+
+</items>

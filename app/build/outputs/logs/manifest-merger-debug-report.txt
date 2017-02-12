@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:2:1-85:12
+	package
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:gridlayout-v7:19.1.0] /home/dhinesh/StudioProjects/Bus/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/19.1.0/AndroidManifest.xml:18:5-42
+	android:targetSdkVersion
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:10:1-62
+	android:name
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:10:18-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:11:1-74
+	android:name
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:11:18-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:12:1-76
+	android:name
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:12:18-74
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:13:1-93
+	android:name
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:13:18-91
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:16:1-76
+	android:name
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:16:18-74
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:17:1-74
+	android:name
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:17:18-72
+uses-feature#0x00020000
+ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:18:1-20:34
+	android:glEsVersion
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:19:9-41
+	android:required
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:20:9-32
+application
+ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:21:5-81:19
+MERGED from [com.android.support:gridlayout-v7:19.1.0] /home/dhinesh/StudioProjects/Bus/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/19.1.0/AndroidManifest.xml:19:5-20
+	android:label
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:24:9-41
+	android:allowBackup
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:22:9-35
+	android:icon
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:23:9-47
+	android:theme
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example1.bus.MainActivity
+ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:26:9-34:20
+	android:label
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:27:13-57
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:32:27-74
+activity#com.example1.bus.NextActivity
+ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:35:9-39:20
+	android:label
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:37:13-56
+	android:parentActivityName
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:38:13-71
+	android:name
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:36:13-57
+activity#com.example1.bus.Grdisplay
+ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:45:9-49:20
+	android:label
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:47:13-53
+	android:parentActivityName
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:48:13-69
+	android:name
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:46:13-54
+activity#com.example1.bus.NextDisplay
+ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:50:9-54:20
+	android:label
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:52:13-53
+	android:parentActivityName
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:53:13-71
+	android:name
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:51:13-56
+activity#com.example1.bus.GrActivity
+ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:55:9-66:23
+	android:label
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:57:13-54
+	android:parentActivityName
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:58:13-71
+	android:name
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:56:13-55
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:60:13-62:65
+	android:value
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:62:17-62
+	android:name
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:61:17-63
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:63:13-65:62
+	android:value
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:65:5-60
+	android:name
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:64:5-54
+activity#com.example1.bus.FavPlace
+ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:67:9-71:20
+	android:label
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:69:13-54
+	android:parentActivityName
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:70:13-71
+	android:name
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:68:13-53
+activity#com.example1.bus.Places_listener
+ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:72:9-76:20
+	android:label
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:74:13-54
+	android:parentActivityName
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:75:13-67
+	android:name
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:73:13-60
+meta-data#com.google.android.gms.version
+ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:82:3-83:38
+	android:value
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:83:12-35
+	android:name
+		ADDED from /home/dhinesh/StudioProjects/Bus/app/src/main/AndroidManifest.xml:82:14-59

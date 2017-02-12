@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_item">
+        <item>Bus number</item>
+    <item>	1	</item>
+<item>	2	</item>
+<item>	3	</item>
+<item>	4	</item>
+<item>	5	</item>
+<item>	7	</item>
+<item>	8	</item>
+<item>	9	</item>
+<item>	11	</item>
+<item>	12	</item>
+<item>	14	</item>
+<item>	15	</item>
+<item>	16	</item>
+<item>	18	</item>
+<item>	19	</item>
+<item>	20	</item>
+<item>	21	</item>
+<item>	22	</item>
+<item>	24	</item>
+<item>	26	</item>
+<item>	27	</item>
+<item>	30	</item>
+<item>	32	</item>
+<item>	33	</item>
+<item>	34	</item>
+<item>	35	</item>
+<item>	36	</item>
+<item>	37	</item>
+<item>	39	</item>
+<item>	40	</item>
+<item>	43	</item>
+<item>	45	</item>
+<item>	52	</item>
+<item>	53	</item>
+<item>	54	</item>
+<item>	55	</item>
+<item>	57	</item>
+<item>	59	</item>
+<item>	61	</item>
+<item>	62	</item>
+<item>	63	</item>
+<item>	64	</item>
+<item>	65	</item>
+<item>	68	</item>
+<item>	69	</item>
+<item>	70	</item>
+<item>	72	</item>
+<item>	74	</item>
+<item>	76	</item>
+<item>	77	</item>
+<item>	78	</item>
+<item>	80	</item>
+<item>	88	</item>
+<item>	90	</item>
+<item>	92	</item>
+<item>	102	</item>
+<item>	105	</item>
+<item>	109	</item>
+<item>	113	</item>
+<item>	140	</item>
+<item>	102A	</item>
+<item>	102B	</item>
+<item>	102C	</item>
+<item>	105B	</item>
+<item>	105C	</item>
+<item>	108A	</item>
+<item>	10A	</item>
+<item>	10B	</item>
+<item>	10C	</item>
+<item>	11A	</item>
+<item>	11B	</item>
+<item>	11C	</item>
+<item>	11D	</item>
+<item>	11E	</item>
+<item>	12A	</item>
+<item>	12D	</item>
+<item>	12F	</item>
+<item>	12H	</item>
+<item>	13A	</item>
+<item>	13C	</item>
+<item>	14A	</item>
+<item>	14B	</item>
+<item>	14C	</item>
+<item>	14D	</item>
+<item>	14E	</item>
+<item>	16A	</item>
+<item>	16B	</item>
+<item>	19A	</item>
+<item>	19B	</item>
+<item>	19C	</item>
+<item>	19D	</item>
+<item>	19E	</item>
+<item>	1A	</item>
+<item>	1B	</item>
+<item>	1C	</item>
+<item>	1D	</item>
+<item>	20A	</item>
+<item>	20B	</item>
+<item>	20C	</item>
+<item>	20D	</item>
+<item>	21A	</item>
+<item>	21B	</item>
+<item>	21C	</item>
+<item>	22A	</item>
+<item>	23A	</item>
+<item>	25A	</item>
+<item>	26A	</item>
+<item>	27A	</item>
+<item>	27B	</item>
+<item>	27C	</item>
+<item>	2B	</item>
+<item>	2C	</item>
+<item>	2D	</item>
+<item>	30A	</item>
+<item>	30B	</item>
+<item>	30B	</item>
+<item>	30C	</item>
+<item>	30D	</item>
+<item>	30E	</item>
+<item>	30F	</item>
+<item>	30G	</item>
+<item>	30H	</item>
+<item>	30J	</item>
+<item>	31A	</item>
+<item>	31D	</item>
+<item>	32A	</item>
+<item>	32B	</item>
+<item>	32C	</item>
+<item>	32D	</item>
+<item>	32E	</item>
+<item>	32G	</item>
+<item>	32H	</item>
+<item>	32K	</item>
+<item>	32M	</item>
+<item>	33A	</item>
+<item>	33B	</item>
+<item>	33C	</item>
+<item>	33D	</item>
+<item>	33E	</item>
+<item>	33F	</item>
+<item>	33G	</item>
+<item>	35A	</item>
+<item>	38A	</item>
+<item>	39A	</item>
+<item>	3A	</item>
+<item>	3C	</item>
+<item>	3E	</item>
+<item>	3G	</item>
+<item>	3H	</item>
+<item>	3M	</item>
+<item>	3N	</item>
+<item>	3R	</item>
+<item>	3S	</item>
+<item>	3T	</item>
+<item>	40A	</item>
+<item>	40B	</item>
+<item>	41A	</item>
+<item>	41B	</item>
+<item>	41C	</item>
+<item>	41D	</item>
+<item>	41F	</item>
+<item>	42A	</item>
+<item>	43A	</item>
+<item>	45A	</item>
+<item>	45B	</item>
+<item>	45C	</item>
+<item>	45D	</item>
+<item>	45E	</item>
+<item>	4A	</item>
+<item>	4B	</item>
+<item>	4C	</item>
+<item>	4D	</item>
+<item>	4E	</item>
+<item>	4H	</item>
+<item>	4K	</item>
+<item>	4M	</item>
+<item>	4N	</item>
+<item>	55A	</item>
+<item>	55B	</item>
+<item>	57A	</item>
+<item>	59A	</item>
+<item>	59C	</item>
+<item>	5C	</item>
+<item>	64B	</item>
+<item>	64D	</item>
+<item>	64E	</item>
+<item>	65A	</item>
+<item>	65B	</item>
+<item>	69A	</item>
+<item>	69C	</item>
+<item>	6A	</item>
+<item>	70A	</item>
+<item>	70B	</item>
+<item>	71A	</item>
+<item>	72A	</item>
+<item>	73B	</item>
+<item>	77A	</item>
+<item>	77B	</item>
+<item>	7C	</item>
+<item>	8A	</item>
+<item>	90A	</item>
+<item>	90B	</item>
+<item>	9A	</item>
+<item>	S1	</item>
+<item>	S10	</item>
+<item>	S11	</item>
+<item>	S12	</item>
+<item>	S13	</item>
+<item>	S14	</item>
+<item>	S15	</item>
+<item>	S15A	</item>
+<item>	S16	</item>
+<item>	S17	</item>
+<item>	S18	</item>
+<item>	S19	</item>
+<item>	S2	</item>
+<item>	S21	</item>
+<item>	S21A</item>
+<item>	S21B</item>
+<item>	S23	</item>
+<item>	S23A</item>
+<item>	S23B</item>
+<item>	S24	</item>
+<item>	S25	</item>
+<item>	S26	</item>
+<item>	S27	</item>
+<item>	S3	</item>
+<item>	S30	</item>
+<item>	S3A	</item>
+<item>	S3B	</item>
+<item>	S6	</item>
+<item>	S7	</item>
+<item>	S7A	</item>
+<item>	S8	</item>
+<item>	S9A	</item>
+<item>	S9A	</item>
+<item>	S9B	</item>
+<item>	S9D	</item>
+               
+    </string-array>
+    <color name="white">#024A68</color>
+    <declare-styleable name="GridLayout"><attr name="orientation">
+
+            
+            <enum name="horizontal" value="0"/>
+            
+            <enum name="vertical" value="1"/>
+        </attr><attr format="integer" name="rowCount"/><attr format="integer" name="columnCount"/><attr format="boolean" name="useDefaultMargins"/><attr name="alignmentMode">
+
+            
+            <enum name="alignBounds" value="0"/>
+            
+            <enum name="alignMargins" value="1"/>
+        </attr><attr format="boolean" name="rowOrderPreserved"/><attr format="boolean" name="columnOrderPreserved"/></declare-styleable>
+    <declare-styleable name="GridLayout_Layout"><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_margin"/><attr name="android:layout_marginLeft"/><attr name="android:layout_marginTop"/><attr name="android:layout_marginRight"/><attr name="android:layout_marginBottom"/><attr format="integer" name="layout_row"/><attr format="integer" min="1" name="layout_rowSpan"/><attr format="integer" name="layout_column"/><attr format="integer" min="1" name="layout_columnSpan"/><attr name="layout_gravity">
+
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="default_gap">16dip</dimen>
+    <integer name="google_play_services_version">4132500</integer>
+    <string name="GD">Get Bus</string>
+    <string name="GR">Get Route</string>
+    <string name="MP">My Places</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Covai Route</string>
+    <string name="button1_GetDirection">Get Bus</string>
+    <string name="editText1">Destination</string>
+    <string name="editText2">Source</string>
+    <string name="google_play_services_version">3265130</string>
+    <string name="grt">Bus number</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_gr">Get Route</string>
+    <string name="title_activity_next">Get Bus</string>
+    <string name="title_gr_display">Get Route</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

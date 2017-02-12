@@ -1,0 +1,431 @@
+[
+    {
+        "outputFile": "/home/dhinesh/StudioProjects/Bus/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 243,
+                    "endColumn": 19,
+                    "endOffset": 4590
+                },
+                "from": {
+                    "file": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 811,
+                        "endLine": 259,
+                        "endColumn": 19,
+                        "endOffset": 5589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 4595,
+                    "endColumn": 39,
+                    "endOffset": 4630
+                },
+                "from": {
+                    "file": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 6,
+                        "startOffset": 289,
+                        "endColumn": 41,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 6734,
+                    "endColumn": 57,
+                    "endOffset": 6787
+                },
+                "from": {
+                    "file": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 6792,
+                    "endColumn": 55,
+                    "endOffset": 6843
+                },
+                "from": {
+                    "file": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 6848,
+                    "endColumn": 43,
+                    "endOffset": 6887
+                },
+                "from": {
+                    "file": "/home/dhinesh/StudioProjects/Bus/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/19.1.0/res/values/values.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 4,
+                        "startOffset": 8977,
+                        "endColumn": 43,
+                        "endOffset": 9016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 6892,
+                    "endColumn": 66,
+                    "endOffset": 6954
+                },
+                "from": {
+                    "file": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/values/version.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 6959,
+                    "endColumn": 38,
+                    "endOffset": 6993
+                },
+                "from": {
+                    "file": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 38,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 294,
+                    "startColumn": 4,
+                    "startOffset": 6998,
+                    "endColumn": 40,
+                    "endOffset": 7034
+                },
+                "from": {
+                    "file": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endColumn": 40,
+                        "endOffset": 239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 7039,
+                    "endColumn": 40,
+                    "endOffset": 7075
+                },
+                "from": {
+                    "file": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endColumn": 40,
+                        "endOffset": 281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 7080,
+                    "endColumn": 52,
+                    "endOffset": 7128
+                },
+                "from": {
+                    "file": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 52,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 297,
+                    "startColumn": 4,
+                    "startOffset": 7133,
+                    "endColumn": 48,
+                    "endOffset": 7177
+                },
+                "from": {
+                    "file": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 48,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 7182,
+                    "endColumn": 56,
+                    "endOffset": 7234
+                },
+                "from": {
+                    "file": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 490,
+                        "endColumn": 56,
+                        "endOffset": 542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 299,
+                    "startColumn": 4,
+                    "startOffset": 7239,
+                    "endColumn": 49,
+                    "endOffset": 7284
+                },
+                "from": {
+                    "file": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 439,
+                        "endColumn": 49,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 300,
+                    "startColumn": 4,
+                    "startOffset": 7289,
+                    "endColumn": 44,
+                    "endOffset": 7329
+                },
+                "from": {
+                    "file": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 393,
+                        "endColumn": 44,
+                        "endOffset": 433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 7334,
+                    "endColumn": 64,
+                    "endOffset": 7394
+                },
+                "from": {
+                    "file": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 327,
+                        "endColumn": 61,
+                        "endOffset": 387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 302,
+                    "startColumn": 4,
+                    "startOffset": 7399,
+                    "endColumn": 42,
+                    "endOffset": 7437
+                },
+                "from": {
+                    "file": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 769,
+                        "endColumn": 39,
+                        "endOffset": 807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 303,
+                    "startColumn": 4,
+                    "startOffset": 7442,
+                    "endColumn": 52,
+                    "endOffset": 7490
+                },
+                "from": {
+                    "file": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 605,
+                        "endColumn": 52,
+                        "endOffset": 653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 304,
+                    "startColumn": 4,
+                    "startOffset": 7495,
+                    "endColumn": 55,
+                    "endOffset": 7546
+                },
+                "from": {
+                    "file": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 659,
+                        "endColumn": 55,
+                        "endOffset": 710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 305,
+                    "startColumn": 4,
+                    "startOffset": 7551,
+                    "endColumn": 55,
+                    "endOffset": 7602
+                },
+                "from": {
+                    "file": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 548,
+                        "endColumn": 55,
+                        "endOffset": 599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 7607,
+                    "endColumn": 54,
+                    "endOffset": 7657
+                },
+                "from": {
+                    "file": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 716,
+                        "endColumn": 54,
+                        "endOffset": 766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 307,
+                    "startColumn": 4,
+                    "startOffset": 7662,
+                    "endLine": 313,
+                    "endColumn": 12,
+                    "endOffset": 7948
+                },
+                "from": {
+                    "file": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 314,
+                    "startColumn": 4,
+                    "startOffset": 7953,
+                    "endLine": 316,
+                    "endColumn": 12,
+                    "endOffset": 8108
+                },
+                "from": {
+                    "file": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

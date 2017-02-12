@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/dhinesh/StudioProjects/Bus/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/dhinesh/StudioProjects/Bus/app/build/intermediates/res/merged/debug/layout/gr.xml",
+        "source": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/layout/gr.xml"
+    },
+    {
+        "merged": "/home/dhinesh/StudioProjects/Bus/app/build/intermediates/res/merged/debug/layout/next.xml",
+        "source": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/layout/next.xml"
+    },
+    {
+        "merged": "/home/dhinesh/StudioProjects/Bus/app/build/intermediates/res/merged/debug/layout/gb_display.xml",
+        "source": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/layout/gb_display.xml"
+    },
+    {
+        "merged": "/home/dhinesh/StudioProjects/Bus/app/build/intermediates/res/merged/debug/layout/places.xml",
+        "source": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/layout/places.xml"
+    },
+    {
+        "merged": "/home/dhinesh/StudioProjects/Bus/app/build/intermediates/res/merged/debug/layout/map_activity.xml",
+        "source": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/layout/map_activity.xml"
+    },
+    {
+        "merged": "/home/dhinesh/StudioProjects/Bus/app/build/intermediates/res/merged/debug/layout/gr_display.xml",
+        "source": "/home/dhinesh/StudioProjects/Bus/app/src/main/res/layout/gr_display.xml"
+    }
+]
