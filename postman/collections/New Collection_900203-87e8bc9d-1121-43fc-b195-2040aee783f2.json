@@ -2,6 +2,7 @@
 	"info": {
 		"_postman_id": "87e8bc9d-1121-43fc-b195-2040aee783f2",
 		"name": "New Collection",
+		"description": "**This is description**",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_uid": "900203-87e8bc9d-1121-43fc-b195-2040aee783f2"
 	},
